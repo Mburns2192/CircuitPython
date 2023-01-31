@@ -21,3 +21,4 @@ while True:
     for angle in range (180, 0, -180): # 180 - 0 degrees, 5 degrees at a time.
         my_servo.angle = angle
         time.sleep(1)
+
